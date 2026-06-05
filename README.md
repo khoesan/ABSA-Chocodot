@@ -139,8 +139,11 @@ This study demonstrates how Aspect-Based Sentiment Analysis can be applied not o
 ## Author
 
 **Khoirotun Hisan**
+
 Bachelor's Thesis Project
+
 Digital Business Program
+
 [Universitas Pendidikan Indonesia]
 
 ## Acknowledgements
@@ -159,6 +162,6 @@ If you use this repository or reference this work, please cite:
   title={Aspect-Based Sentiment Analysis pada Ulasan Konsumen Shopee (Studi Kasus Chocodot)},
   author={Khoirotun Hisan},
   year={2026},
-  school={[Universitas Pendidikan Indonesia]}
+  school={Universitas Pendidikan Indonesia}
 }
 ```
