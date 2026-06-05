@@ -141,14 +141,12 @@ This study demonstrates how Aspect-Based Sentiment Analysis can be applied not o
 **Khoirotun Hisan**
 
 Bachelor's Thesis Project
-
 Digital Business Program
-
-[Universitas Pendidikan Indonesia]
+Universitas Pendidikan Indonesia
 
 ## Acknowledgements
 
-This project was conducted as part of an undergraduate thesis under the supervision of:
+This research was conducted under the supervision of:
 
 - Rangga Gelar Guntara, S.Kom., M.Kom.
 - Muhammad Rizki Nugraha, S.Pd., M.T.
