@@ -94,17 +94,16 @@ Base model:
 
 `indobenchmark/indobert-base-p1`
 
-Frameworks:
-
-* Transformers
-* PyTorch
-* Hugging Face Datasets
-
 Training configuration:
 
 * Epochs: 3
 * Batch size: 8
 * Maximum sequence length: 128
+
+## Model Access
+
+Fine-tuned IndoBERT model:
+https://huggingface.co/khoesan/ABSA-Chocodot
 
 ## Results
 
@@ -140,8 +139,16 @@ This study demonstrates how Aspect-Based Sentiment Analysis can be applied not o
 ## Author
 
 **Khoirotun Hisan**
-Digital Business Undergraduate Student
+Bachelor's Thesis Project
+Digital Business Program
 [Universitas Pendidikan Indonesia]
+
+## Acknowledgements
+
+This project was conducted as part of an undergraduate thesis under the supervision of:
+
+- Rangga Gelar Guntara, S.Kom., M.Kom.
+- Muhammad Rizki Nugraha, S.Pd., M.T.
 
 ## Citation
 
